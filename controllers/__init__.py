@@ -1,0 +1,5 @@
+from controllers.user_control import user_control
+from controllers.pokemon_control import pokemon_control
+from controllers.backpack_control import backpack_control
+from controllers.location_control import location_control
+from controllers.pokemon_random import random
